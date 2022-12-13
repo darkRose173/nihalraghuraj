@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nihalraghuraj
 - 👀 I’m interested in robotics, automation and AI
-- 🌱 I’m currently learning ROS2, PyTorch 
+- 🌱 I’m currently upskilling on ROS2, PyTorch, Tensorflow
 - 💞️ I’m looking to collaborate on challenging Open source projects related to automation/AI/Machine learning
 - 📫 Reach me: nihalraghuraj@gmail.com
 
